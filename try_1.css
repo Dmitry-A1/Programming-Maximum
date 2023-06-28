@@ -19,3 +19,9 @@ h1 {
     font-size: 20px;
     font-family: Courier New;
 }
+.p4{
+    font-size: 24px;
+    text-align:  center;
+    font-style: italic;
+    text-shadow: green 2px 12px
+}
